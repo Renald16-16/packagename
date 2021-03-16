@@ -1,3 +1,5 @@
+package com.github.packagename.format
+
 libname library '../../data/18-83510-I94-Data-2016/i94_apr16_sub.sas7bdat' ;
 proc format library=library ;
 
